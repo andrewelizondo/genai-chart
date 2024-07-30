@@ -1,0 +1,7 @@
+llmName: llama3
+
+#ollama values
+ollama:
+  ollama:
+    models:
+      - llama3
